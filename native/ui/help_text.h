@@ -1128,7 +1128,7 @@ inline constexpr HelpEntry HELP_ENTRIES[] = {
      {"A opens the MIDI screen",
       "B there comes back here"}},
     /* PROJECT_EXIT */
-    {"EXIT: leave PocketTracker", "Asks first. Save the song", "before you go.",
+    {"EXIT: leave PocketFlow", "Asks first. Save the song", "before you go.",
      {"If the song has unsaved changes,",
       "it asks first."},
      {"A leaves the app"}},

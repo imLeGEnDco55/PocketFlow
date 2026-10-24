@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PocketTracker</string>
+    <string name="app_name">PocketFlow</string>
     <string name="playback_channel">Playback</string>
     <string name="playback_playing">Playing</string>
     <string name="playback_stop">Stop</string>
