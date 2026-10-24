@@ -1,5 +1,7 @@
 # PocketTracker
 
+> **PocketFlow en español:** [MANUAL.md — aprende desde cero](MANUAL.md). Incluye el primer beat paso a paso, todas las pantallas y comandos, ejemplos musicales, exportación a WAV/stems y solución de problemas.
+
 <p align="center">
   <img src="docs/images/logo-dark.png" alt="PocketTracker" height="240">
   &nbsp;&nbsp;
@@ -144,6 +146,7 @@ The desktop builds read a gamepad through SDL, and also map the keyboard. See [`
 
 | Document | Contents |
 |---|---|
+| [MANUAL.md](MANUAL.md) | Manual de PocketFlow en español — desde tu primer beat hasta la referencia completa |
 | [`docs/quick-start-guide.md`](docs/quick-start-guide.md) | Quick start — from install to your first beat |
 | [`docs/manual-en.md`](docs/manual-en.md) | Full user manual |
 | [`docs/input-system.md`](docs/input-system.md) | Complete controls reference |
